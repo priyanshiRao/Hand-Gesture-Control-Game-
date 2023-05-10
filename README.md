@@ -15,10 +15,7 @@ For accessing the this file remember that you have insatlled the libraries from 
   
   the  centre of the maximum area have been find out and according to that a circle is drawn of 10 pixels.
   
-  Now i have dividen my video screen into 9 different regions which have been shown in the fig below
-
-
-![DIP project](https://user-images.githubusercontent.com/93609977/171785445-523f4dfe-8525-42e4-ba67-b8dacb60c58a.png)
+ 
 
 
 We have defined our camera size to be of (300*300)pixels and according to that divided the coordinate 
