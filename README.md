@@ -25,7 +25,7 @@ We have defined our camera size to be of (300*300)pixels and according to that d
 
 The whole work which will be implemented in the game will be done by the pyautogui 
 
-<!--You can specify the different task like 
+You can specify the different task like 
 
 ###For (x,y) when x<75  && y<250 && y>200 --> LEFT
 
@@ -40,7 +40,7 @@ The whole work which will be implemented in the game will be done by the pyautog
  You can specify the different task for the white space on your own 
  
  For that  specify the region and when your(x,y) coordinates comes in that range then it will perform specify task 
- for eg in fighting games you can specify it as a when it will come in the white space it will perform the firring -->
+ for eg in fighting games you can specify it as a when it will come in the white space it will perform the firring 
  
  
 This is all the working 
